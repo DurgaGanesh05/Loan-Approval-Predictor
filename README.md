@@ -2,7 +2,6 @@
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)](https://www.python.org/)
 [![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Scikit--Learn-orange?logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
-[![Flask](https://img.shields.io/badge/Backend-Flask-black?logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
 A machine learning web application that predicts whether a loan application will be **approved or rejected** based on applicant details. This project demonstrates an end-to-end ML pipeline — from data preprocessing and model training to deploying a live prediction service via a Flask web application.
